@@ -1,3 +1,3 @@
 # Reference-Materials
 
-This Repo Contains all the mataerials for MEAN Stack with GO
+This Repo Contains all the materials for MEAN Stack with GO
